@@ -60,13 +60,27 @@ Company        | Project                | Skills              | Special Note
 ### [3.4. Related School Courses](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
 
 ## [4. Certificates](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
-Company        | Project                | Skills              | Special Note
----------------|------------------------|---------------------|---------------------
+
+Certificates   | Date                 | Verification      
+---------------|----------------------|-------------------
+MOS Word       | 2022-02-25           |         
+---------------|----------------------|-------------------
+MOS Powerpoint | 2021-02-17           |
+---------------|----------------------|-------------------
 
 ## [5. Honors and Awards](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
+
+Honors / Awards                       | Date                 | Verification      
+--------------------------------------|----------------------|-------------------
+Academic Excellence Scholarship       | 2022-02-25           |         
+--------------------------------------|-------------------
+MOS Powerpoint | 2021-02-17           |
+---------------|----------------------|-------------------
 
 ## [6. Qualifications](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
 TOEIC          |  915점               | 2021-07-11        |
+---------------|----------------------|-------------------|---------------------
+
 
