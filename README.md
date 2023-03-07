@@ -3,7 +3,7 @@
 
 ## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
-이름: 남 정호
+이름: 류경빈
 
   - 생년월일: 2002-01-12
   - 연락처: 010-4372-2022
