@@ -14,7 +14,7 @@
 
   - 주전공: AI학과
   - 심화전공: AI학과
-  - 학점: 4.16 / 4.50
+  - 학점: 3.97 / 4.50
 
 ### [1.3. Awards](https://github.com/samchon/resume/blob/master/STORY.md#13-awards)
   
