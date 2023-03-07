@@ -68,4 +68,4 @@ Company        | Project                | Skills              | Special Note
 ## [6. Qualifications](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
-TOEIC            915점 
+TOEIC          |  915점 
