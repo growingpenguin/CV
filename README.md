@@ -20,11 +20,11 @@
 
 
 ## [2. Work Experience](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
-### [2.1. For a lifetime](https://github.com/samchon/resume/blob/master/STORY.md#21-for-a-lifetime)
-.
+### [2.1. Internship](https://github.com/samchon/resume/blob/master/STORY.md#21-for-a-lifetime)
 
-### [2.2. Self Improvement](https://github.com/samchon/resume/blob/master/STORY.md#22-self-improvement)
 
+### [2.2. Projects](https://github.com/samchon/resume/blob/master/STORY.md#22-self-improvement)
+####[2.2.1 Open Source Projects]
 
 ### [2.3. Standardization](https://github.com/samchon/resume/blob/master/STORY.md#23-standardization)
 
