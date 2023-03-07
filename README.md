@@ -24,7 +24,7 @@
 
 
 ### [2.2. Projects](https://github.com/samchon/resume/blob/master/STORY.md#22-self-improvement)
-####[2.2.1 Open Source Projects]
+#### [3.1. Open Source Projects](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects) 
 
 ### [2.3. Standardization](https://github.com/samchon/resume/blob/master/STORY.md#23-standardization)
 
