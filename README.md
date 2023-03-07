@@ -6,6 +6,7 @@
 이름: 류경빈
 
   - 생년월일: 2002-01-12
+  - 메일: sweetyleah0@gmail.com
   - 연락처: 010-4372-2022
   - Github: https://github.com/growingpenguin
 
@@ -16,20 +17,9 @@
   - 심화전공: AI학과
   - 학점: 3.97 / 4.50
 
-### [1.3. Awards](https://github.com/samchon/resume/blob/master/STORY.md#13-awards)
-  
-### [1.4. Skills](https://github.com/samchon/resume/blob/master/STORY.md#14-skills)
-
-### [1.5. Experiences](https://github.com/samchon/resume/blob/master/STORY.md#15-experiences)
 
 
-Company | Entry Date | Leave Date | Form
---------|------------|------------|-------
-
-
-
-
-## [2. Introduction](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
+## [2. Work Experience](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
 ### [2.1. For a lifetime](https://github.com/samchon/resume/blob/master/STORY.md#21-for-a-lifetime)
 .
 
