@@ -24,19 +24,16 @@
 
 
 ### [2.2. Projects](https://github.com/samchon/resume/blob/master/STORY.md#22-self-improvement)
-#### [2.2.1. Open Source Projects](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
-Project            | Skills           | Description
--------------------|------------------|-----------------------------
-[typia](https://github.com/samchon/resume/blob/master/STORY.md#311-typia) | TypeScript | 15,000x faster Runtime Validator
+#### [2.2.1. Open Source Projects]
 
-#### [2.2.2. University Projects](https://github.com/samchon/resume/blob/master/STORY.md#32-university-projects)
+#### [2.2.2. University Projects]
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [hansung-timetable](STORY.md#321-hansung-timetable)  | Flex             | Timetable Simulator
 [samchon-simulation](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation) | C++, Flex | Stock Trading Simulator
 [nam-tree](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)           | C++, Flex | Custom Decision Tree for Complicate Model
 
-#### [2.2.3. Commercial Projects](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
+#### [2.2.3. Commercial Projects]
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 
