@@ -1,7 +1,7 @@
 # Resume of [Ryu GyeongBin](https://github.com/growingpenguin)
 > 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
 
-## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
+## [1. Outline]
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
 이름: 류경빈
 
@@ -10,7 +10,7 @@
   - 연락처: 010-4372-2022
   - Github: https://github.com/growingpenguin
 
-### [1.2. Education](https://github.com/samchon/resume/blob/master/STORY.md#12-education)
+### [1.2. Education]
 성신여자대학교, 2021-03 ~ 
 
   - 주전공: AI학과
@@ -19,11 +19,11 @@
 
 
 
-## [2. Work Experience](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
-### [2.1. Internship](https://github.com/samchon/resume/blob/master/STORY.md#21-for-a-lifetime)
+## [2. Work Experience]
+### [2.1. Internship]
 
 
-### [2.2. Projects](https://github.com/samchon/resume/blob/master/STORY.md#22-self-improvement)
+### [2.2. Projects]
 #### [2.2.1. Open Source Projects]
 
 #### [2.2.2. University Projects]
@@ -38,25 +38,23 @@ Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 
 
-### [2.3. Standardization](https://github.com/samchon/resume/blob/master/STORY.md#23-standardization)
+### [2.3. Standardization]
 
 
-### [2.4. Documentation](https://github.com/samchon/resume/blob/master/STORY.md#24-documentation)
+### [2.4. Documentation]
 
-
-### [2.5. Test Driven Development](https://github.com/samchon/resume/blob/master/STORY.md#25-test-driven-development)
-
-
+### [2.5. Test Driven Development]
 
 
 
-## [3. Additional Information](https://github.com/samchon/resume/blob/master/STORY.md#3-my-projects)
-### [3.1. School Club](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
-### [3.2. Suburb Course](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
-### [3.3. Kaggle](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
-### [3.4. Related School Courses](https://github.com/samchon/resume/blob/master/STORY.md#31-open-source-projects)
 
-## [4. Certificates](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
+
+## [3. Additional Information]
+### [3.1. School Club]
+### [3.2. Suburb Course]
+### [3.3. Related School Courses]
+
+## [4. Certificates]
 
 Certificates   | Date                 | Verification      
 ---------------|----------------------|-------------------
@@ -65,7 +63,7 @@ MOS Word       | 2022-02-25           |
 MOS Powerpoint | 2021-02-17           |
 ---------------|----------------------|-------------------
 
-## [5. Honors and Awards](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
+## [5. Honors and Awards]
 
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
@@ -74,7 +72,7 @@ Academic Excellence1 Scholarship      | 2022-02-25           |
 Media Scholarship                     | 2021-02-17           |
 --------------------------------------|----------------------|---------------------
 
-## [6. Qualifications](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
+## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
 TOEIC          |  915점               | 2021-07-11        |
