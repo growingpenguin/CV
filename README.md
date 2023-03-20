@@ -52,7 +52,17 @@ Company        | Project                | Skills              | Special Note
 
 ## [3. Additional Information]
 ### [3.1. School Club]
+Name           | Date                 | Description    
+---------------|----------------------|-------------------------
+Mirror         | 2022                 | English Newspaper club        
+
 ### [3.2. Suburb Course]
+Name           | Date                 | Description    
+---------------|----------------------|-------------------------
+SSC            | 2021                 | English Speaking club  
+BDAA           | 2022                 | Big Data Analysis club
+
+
 ### [3.3. Related School Courses]
 
 ## [4. Certificates]
@@ -60,9 +70,7 @@ Company        | Project                | Skills              | Special Note
 Certificates   | Date                 | Verification      
 ---------------|----------------------|-------------------
 MOS Word       | 2022-02-25           |         
----------------|----------------------|-------------------
 MOS Powerpoint | 2021-02-17           |
----------------|----------------------|-------------------
 
 ## [5. Honors and Awards]
 
@@ -80,6 +88,6 @@ Improvement of Language Skills Scholarship(English)A Scholarship | 2022-02-03 |
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
 TOEIC          |  915점               | 2021-07-11        |
----------------|----------------------|-------------------|---------------------
+
 
 
