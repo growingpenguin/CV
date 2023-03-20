@@ -77,12 +77,9 @@ MOS Powerpoint | 2021-02-17           |
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
 Academic Excellence1 Scholarship      | 2022-02-25           |         
---------------------------------------|----------------------|--------------------
 Broadcast JournalismC Scholarship     | 2022-12-26           |
---------------------------------------|----------------------|---------------------
 Improvement of Language Skills Scholarship(English)A Scholarship | 2022-02-03 |
---------------------------------------|----------------------|---------------------
-Improvement of Language Skills Scholarship(English)A Scholarship | 2022-02-03 |
+Improvement of Language Skills Scholarship(English)B Scholarship | 2022-02-03 |
 
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
