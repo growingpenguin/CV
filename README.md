@@ -31,7 +31,7 @@ Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [AI서비스설계](https://blog.naver.com/sweetyleah2/222812457145)  | Java             | Boader app
 [CJ제일제당 데이터 분석 공모전](https://blog.naver.com/sweetyleah2/222987965373) | C++ | Marketing Report Based on analyzing CJ sales data
-[nam-tree](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)           | C++, Flex | Custom Decision Tree for Complicate Model
+[자료구조 실습 프로젝트](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)   | C++ | AVL Tree that classifies trash data
 
 #### [2.2.3. Commercial Projects]
 Company        | Project                | Skills              | Special Note
