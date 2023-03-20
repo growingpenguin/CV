@@ -29,7 +29,7 @@
 #### [2.2.2. University Projects]
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
-[AI서비스설계](https://blog.naver.com/sweetyleah2/222812457145)  | Flex             | Timetable Simulator
+[AI서비스설계](https://blog.naver.com/sweetyleah2/222812457145)  | Java             | Boader app
 [samchon-simulation](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation) | C++, Flex | Stock Trading Simulator
 [nam-tree](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)           | C++, Flex | Custom Decision Tree for Complicate Model
 
