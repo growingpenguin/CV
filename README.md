@@ -62,7 +62,9 @@ Name           | Date                 | Description
 ---------------|----------------------|-------------------------
 SSC            | 2021                 | English Speaking club  
 BDAA           | 2022                 | Big Data Analysis club
+NVIDIA DLI Couse | 2022               | NVIDIA's Educational course for Basics of DeepLearning
 LG AIMERS      | 2023                 | LG group educational program
+
 
 #### [3.2.2 Volunteer Activities]
 Name           | Date                 | Description    
