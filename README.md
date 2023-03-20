@@ -30,7 +30,7 @@
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [AI서비스설계](https://blog.naver.com/sweetyleah2/222812457145)  | Java             | Boader app
-[CJ제일제당 데이터 분석 공모전](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation) | C++, Flex | Stock Trading Simulator
+[CJ제일제당 데이터 분석 공모전](https://blog.naver.com/sweetyleah2/222987965373) | C++ | Marketing Report Based on analyzing CJ sales data
 [nam-tree](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)           | C++, Flex | Custom Decision Tree for Complicate Model
 
 #### [2.2.3. Commercial Projects]
@@ -69,10 +69,10 @@ MOS Powerpoint | 2021-02-17           |
 
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
-Academic Excellence Scholarship       | 2022-02-25           |         
---------------------------------------|-------------------
-MOS Powerpoint | 2021-02-17           |
----------------|----------------------|-------------------
+Academic Excellence1 Scholarship      | 2022-02-25           |         
+--------------------------------------|----------------------|--------------------
+Media Scholarship                     | 2021-02-17           |
+--------------------------------------|----------------------|---------------------
 
 ## [6. Qualifications](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
 Qualification  | Score                | Date              | Verification
