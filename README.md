@@ -3,19 +3,19 @@
 
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
-이름: 류경빈
+Name: 류경빈
 
-  - 생년월일: 2002-01-12
-  - 메일: sweetyleah0@gmail.com
-  - 연락처: 010-4372-2022
+  - BirthDate: 2002-01-12
+  - Email: sweetyleah0@gmail.com
+  - Contact: 010-4372-2022
   - Github: https://github.com/growingpenguin
 
 ### [1.2. Education]
 성신여자대학교, 2021-03 ~ 
 
-  - 주전공: AI학과
-  - 심화전공: AI학과
-  - 학점: 3.97 / 4.50
+  - Major: AI학과
+  - Intensive Major: AI학과
+  - GPA: 3.97 / 4.50
 
 
 
