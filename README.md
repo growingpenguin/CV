@@ -30,7 +30,7 @@ Sungshin Women's University, 2021-03 ~
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [AI Service Design Project](https://github.com/growingpenguin/kioring)  | Java             | Boader app
-[CJ DataAnalysis Project](https://blog.naver.com/sweetyleah2/222987965373) | C++ | Marketing Report Based on analyzing CJ sales data
+[CJ DataAnalysis Project](https://github.com/growingpenguin/CJ_DataAnalysisCompetition) | C++ | Marketing Report Based on analyzing CJ sales data
 [DataStructure Project](https://github.com/growingpenguin/DatastructureProject)   | C++ | AVL Tree that classifies trash data
 [Genetic Algorithm Project using Expression Trees](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Genetic Algorithm using Expression Trees
 [Pure/Hybrid Genetic Algorithm Project](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Basic Genetic Algorithms 
