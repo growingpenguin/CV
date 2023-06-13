@@ -1,5 +1,5 @@
 # Resume of [Ryu GyeongBin](https://github.com/growingpenguin)
-> 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
+> This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
