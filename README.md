@@ -32,6 +32,7 @@ Project            | Skills           | Description
 [AI서비스설계](https://github.com/growingpenguin/kioring)  | Java             | Boader app
 [CJ제일제당 데이터 분석 공모전](https://blog.naver.com/sweetyleah2/222987965373) | C++ | Marketing Report Based on analyzing CJ sales data
 [자료구조 실습 프로젝트](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)   | C++ | AVL Tree that classifies trash data
+[알고리즘 유전 알고리즘 프로젝트](https://github.com/samchon/resume/blob/master/STORY.md#323-nam-tree)   | C++ | AVL Tree that classifies trash data
 [모바일 프로그래밍 프로젝트]()   | Java | App that checks the daily nutrition state of users
 
 
