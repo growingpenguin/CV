@@ -11,10 +11,10 @@ Name: 류경빈
   - Github: https://github.com/growingpenguin
 
 ### [1.2. Education]
-성신여자대학교, 2021-03 ~ 
+Sungshin Women's University, 2021-03 ~ 
 
-  - Major: AI학과
-  - Intensive Major: AI학과
+  - Major: AI
+  - Intensive Major: AI
   - GPA: 3.97 / 4.50
 
 
@@ -78,24 +78,28 @@ Name           | Date                 | Description
 ### [3.3. Related School Courses]
 School Courses   | Date                 | Verification      
 ---------------|----------------------|-------------------
-소프트웨어융합개론  | 2021           |         
-이산수학 | 2021           |
-기초통계학 | 2021           |
-파이썬 프로그래밍 | 2021           |
-자바 프로그래밍 | 2021           |
-C++ 프로그래밍 | 2021           |
-미적분과 벡터 해석 기초| 2021           |
-고급 파이썬 프로그래밍 | 2022           |
-자료구조 | 2022           |
-운영체제 | 2022          |
-인공지능 | 2022           |
-AI 서비스 설계 | 2022           |
-고급 C++ 프로그래밍 | 2022           |
-IT개론 | 2022           |
-데이터베이스 | 2022           |
-자료구조 실습 | 2022           |
-모바일 프로그래밍 | 2022           |
-기계학습 | 2022           |
+Introduction to Software Integration  | 2021           |         
+Discrete Mathematics | 2021           |
+Introduction to Statistics | 2021           |
+Python Programming | 2021           |
+Java Programming | 2021           |
+C++ Programming | 2021           |
+Calculus and Vector Fundamentals| 2021           |
+Advanced Python Programming | 2022           |
+DataStructure | 2022           |
+Operating System | 2022          |
+Artificial Intelligence | 2022           |
+AI Service Design | 2022           |
+Advanced C++ Programming | 2022           |
+Introductions to IT | 2022           |
+Database | 2022           |
+DataStructure Hands-on class | 2022           |
+Mobile Programming | 2022           |
+Algorithm | 2023           |
+Deep Learning | 2023           |
+Computer Structure | 2023           |
+Cloud Computing | 2023           |
+Recommendation System | 2023           |
 
 ## [4. Certificates]
 
