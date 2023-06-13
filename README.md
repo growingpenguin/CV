@@ -2,7 +2,7 @@
 > This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 
 ## [1. Outline]
-### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
+### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
 Name: 류경빈
 
   - BirthDate: 2002-01-12
