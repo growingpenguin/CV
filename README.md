@@ -57,7 +57,7 @@ Company        | Project                | Skills              | Special Note
 ### [3.1. School Club]
 Name           | Date                 | Description    
 ---------------|----------------------|-------------------------
-Mirror         | 2022                 | English Newspaper club        
+Mirror         | 2022                 | [English Newspaper club](https://github.com/growingpenguin/Mirror/tree/master)        
 
 ### [3.2. Suburb Course]
 #### [3.2.1 Extra Curricular Activities]
