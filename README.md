@@ -3,7 +3,7 @@
 
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
-Name: 류경빈
+Name: RYOO GYEONGBIN
 
   - BirthDate: 2002-01-12
   - Email: sweetyleah0@gmail.com
