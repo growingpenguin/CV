@@ -120,7 +120,7 @@ Improvement of Language Skills Scholarship(English)B Scholarship | 2022-02-03 |
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
-TOEIC          |  915               | 2021-07-11        |
+TOEIC          |  960               | 2023-07-09        |
 
 
 
