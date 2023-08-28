@@ -15,7 +15,7 @@ Sungshin Women's University, 2021-03 ~
 
   - Major: AI
   - Intensive Major: AI
-  - GPA: 3.97 / 4.50
+  - GPA: 4.01 / 4.50
 
 
 
@@ -120,7 +120,7 @@ Improvement of Language Skills Scholarship(English)B Scholarship | 2022-02-03 |
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
-TOEIC          |  960               | 2023-07-09        |
+TOEIC          |  965               | 2023-07-09        |
 
 
 
