@@ -117,10 +117,16 @@ MOS Powerpoint | 2021-02-17           |
 
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
-Academic Excellence1 Scholarship      | 2022-02-25           |         
+Improvement of Language Skills Scholarship(English)A Scholarship | 2022-02-03 |        
+Broadcast JournalismC Scholarship | 2022-09-11 |
 Broadcast JournalismC Scholarship     | 2022-12-26           |
-Improvement of Language Skills Scholarship(English)A Scholarship | 2022-02-03 |
+Academic Excellence1 Scholarship      | 2023-02-20           | 
 Improvement of Language Skills Scholarship(English)B Scholarship | 2022-02-03 |
+Broadcast JournalismC Scholarship     | 2023-08-10           |
+UROP Scholarship | 2023-09-11 |
+Sungshin Scholarship(Academic Excellence)     | 2023-08-22          |
+AI SW school Competition     | 2023-08-23          |
+
 
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
