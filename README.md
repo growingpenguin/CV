@@ -40,7 +40,7 @@ Project            | Skills           | Description
 #### [2.2.3. Commercial Projects]
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
-
+Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program using deep learning](https://github.com/growingpenguin/kioring)  | C++, Python             | AWS, Microsoft SQL
 
 ### [2.3. Standardization]
 
@@ -100,6 +100,11 @@ Deep Learning | 2023           |
 Computer Structure | 2023           |
 Cloud Computing | 2023           |
 Recommendation System | 2023           |
+Natural Language Processing | 2023           |
+Big Data Analysis | 2023           |
+Reinforcement Learning | 2023           |
+Computer Vision | 2023           |
+
 
 ## [4. Certificates]
 
@@ -121,6 +126,8 @@ Improvement of Language Skills Scholarship(English)B Scholarship | 2022-02-03 |
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
 TOEIC          |  965               | 2023-07-09        |
+OPIC          |  AL               | 2023-09-24        |
+
 
 
 
