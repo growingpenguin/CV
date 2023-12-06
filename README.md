@@ -1,6 +1,6 @@
 # Resume of [Ryu GyeongBin](https://github.com/growingpenguin)
-> This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 ![증명사진](https://github.com/growingpenguin/CV/assets/110277903/64b41565-624d-46fb-8f02-9e1f171a6513) <br/>
+> This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
 Name: RYOO GYEONGBIN
