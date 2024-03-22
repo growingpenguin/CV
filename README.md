@@ -14,7 +14,7 @@ Sungshin Women's University, 2021-03 ~
 
   - Major: AI
   - Intensive Major: AI
-  - GPA: 4.01 / 4.50
+  - GPA: 4.02 / 4.50
 
 
 
@@ -56,7 +56,7 @@ Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program us
 ### [3.1. School Club]
 Name           | Date                 | Description    
 ---------------|----------------------|-------------------------
-Mirror         | 2022                 | [English Newspaper club](https://github.com/growingpenguin/Mirror/tree/master)        
+Mirror         | 2022~                 | [English Newspaper club](https://github.com/growingpenguin/Mirror/tree/master)        
 
 ### [3.2. Suburb Course]
 #### [3.2.1 Extra Curricular Activities]
