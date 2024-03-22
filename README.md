@@ -20,7 +20,7 @@ Sungshin Women's University, 2021-03 ~
 
 ## [2. Work Experience]
 ### [2.1. Internship]
-Marine HydroDynamics AI Undergraduate Research Lab Member (2023.03 ~2023.12.5) <br/>
+Member of the Marine Hydrodynamics AI Research Lab (2023.03 ~2023.12.5) <br/>
 
 ### [2.2. Projects]
 #### [2.2.1. Open Source Projects]
