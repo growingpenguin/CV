@@ -34,6 +34,8 @@ Project            | Skills           | Description
 [Genetic Algorithm Project using Expression Trees](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Genetic Algorithm using Expression Trees
 [Pure/Hybrid Genetic Algorithm Project](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Basic Genetic Algorithms 
 [Mobile Programming Project]()   | Java | App that checks the daily nutrition state of users
+[NLP Project](https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning.git)   | Python | Sentiment analysis of Korean movie reviews from the Naver Sentiment Movie Corpus (NSMC) using two state-of-the-art language models: meta-llama/Llama-2-7b-chat-hf and KT-AI/midm-bitext-S-7B-inst-v1
+
 
 
 #### [2.2.3. Commercial Projects]
