@@ -106,6 +106,12 @@ Natural Language Processing | 2023           |
 Big Data Analysis | 2023           |
 Reinforcement Learning | 2023           |
 Computer Vision | 2023           |
+World News Analysis | 2024           |
+Capstone Design | 2024           |
+Advanced Effective Speech | 2024           |
+Understaning the Metaverse | 2024           |
+British Culture And History | 2024           |
+
 
 
 ## [4. Certificates]
