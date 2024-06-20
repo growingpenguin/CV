@@ -35,7 +35,7 @@ Project            | Skills           | Description
 [Pure/Hybrid Genetic Algorithm Project](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Basic Genetic Algorithms 
 [Mobile Programming Project]()   | Java | App that checks the daily nutrition state of users
 [NLP Project](https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning.git)   | Python | Sentiment analysis of Korean movie reviews from the Naver Sentiment Movie Corpus (NSMC) using two state-of-the-art language models: meta-llama/Llama-2-7b-chat-hf and KT-AI/midm-bitext-S-7B-inst-v1
-[Metaverse Experiment Project]()   | Java | The project explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot
+[Metaverse Experiment Project](https://github.com/growingpenguin/TurtleVerseSync.git)   | Java | The project explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot
 
 
 
