@@ -14,7 +14,7 @@ Sungshin Women's University, 2021-03 ~
 
   - Major: AI
   - Intensive Major: AI
-  - GPA: 4.02 / 4.50
+  - GPA: 4.07 / 4.50
 
 
 
