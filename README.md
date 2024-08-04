@@ -54,6 +54,7 @@ Simulation-based Service Scenarios Analysis for Commercial Deployment:Robot-Frie
 #### [2.3.2. International Conference]
 Tile        | Authors                | Conference              | Date
 ---------------|------------------------|---------------------|---------------------
+Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in Lng Carriers  | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, Gyeongbin Ryoo  | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)       | Jun 2024(In Proceedings)
 
 #### [2.3.2. University Projects]
 Project            | Skills           | Description
