@@ -54,7 +54,6 @@ Simulation-based Service Scenarios Analysis for Commercial Deployment:Robot-Frie
 #### [2.3.2. International Conference]
 Tile        | Authors                | Conference              | Date
 ---------------|------------------------|---------------------|---------------------
-Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment  | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim  | Symposium of the Korean Institute of communications and Information Sciences             | Jun 2024(In Proceedings)
 
 #### [2.3.2. University Projects]
 Project            | Skills           | Description
