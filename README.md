@@ -52,13 +52,6 @@ Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program us
 | Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | Symposium of the Korean Institute of Communications and Information Sciences                              | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file2.pdf) |
 | Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case | Soo Min Shim, Jeong Min Oh, Nam Gyo Kim, and Gyeongbin Ryoo, Ji Soo Kang, Young Eun Kim, Seong Wook Hwang, Hee Sang Lee, Joon Young Kim | KOSIME Summer Academic Conference                                                                         | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file3.pdf) |
 
-
-
-
-Tile        | Authors                | Conference              | Date
----------------|------------------------|---------------------|---------------------
-Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment  | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim  | Symposium of the Korean Institute of communications and Information Sciences             | Jun 2024(In Proceedings)
-Simulation-based Service Scenarios Analysis for Commercial Deployment:Robot-Friendly Building Case  | Soo Min Shim, Jeong Min Oh, Nam Gyo Kim, and Gyeongbin Ryoo, Ji Soo Kang, Young Eun Kim, Seong Wook Hwang, Hee Sang Lee, Joon Young Kim | KOSIME Summer Academic Conference | Jun 2024(In Proceedings)
 #### [2.3.2. International Conference]
 | Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | PDF Link                                                                                   |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
