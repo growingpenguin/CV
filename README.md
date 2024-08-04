@@ -21,6 +21,7 @@ Sungshin Women's University, 2021-03 ~
 ## [2. Work Experience]
 ### [2.1. Internship]
 Member of the Marine Hydrodynamics AI Research Lab (2023.03 ~2023.12.5) <br/>
+Member of the [Mobility Service Research Lab](https://kim415.github.io/) (2024.12.08 ~ ) <br/>
 
 ### [2.2. Projects]
 #### [2.2.1. Open Source Projects]
@@ -44,8 +45,14 @@ Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program using deep learning](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
 
-### [2.3. Standardization]
+### [2.3. Publications]
+#### [2.3.1. Open Source Projects]
 
+#### [2.3.2. University Projects]
+Project            | Skills           | Description
+-------------------|------------------|-----------------------------
+[AI Service Design Project](https://github.com/growingpenguin/kioring)  | Java             | Boader app
+[CJ DataAnalysis Project](https://github.com/growingpenguin/CJ_DataAnalysisCompetition) | C++ | Marketing Report Based on analyzing CJ sales data
 
 ### [2.4. Documentation]
 
