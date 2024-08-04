@@ -46,7 +46,10 @@ Company        | Project                | Skills              | Special Note
 Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program using deep learning](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
 
 ### [2.3. Publications]
-#### [2.3.1. Open Source Projects]
+#### [2.3.1. Domestic Conference]
+Tile        | Authors                | Conference              | Date
+---------------|------------------------|---------------------|---------------------
+Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment  | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim  | Symposium of the Korean Institute of communications and Information Sciences             | Jun 2024
 
 #### [2.3.2. University Projects]
 Project            | Skills           | Description
