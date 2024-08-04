@@ -56,6 +56,12 @@ Tile        | Authors                | Conference              | Date
 ---------------|------------------------|---------------------|---------------------
 Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in Lng Carriers  | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, Gyeongbin Ryoo  | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)       | Jun 2024(In Proceedings)
 
+
+| Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | PDF Link                                                                                   |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
+| Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in LNG Carriers           | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, Gyeongbin Ryoo | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)                    | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file.pdf) |
+
+
 #### [2.3.2. University Projects]
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
