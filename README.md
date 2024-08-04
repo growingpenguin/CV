@@ -47,8 +47,14 @@ Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program us
 
 ### [2.3. Publications]
 #### [2.3.1. Domestic Conference]
+| Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | Download PDF |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|---------------|
+| Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in LNG Carriers           | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, Gyeongbin Ryoo | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)                    | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file.pdf) |
 | Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | Symposium of the Korean Institute of Communications and Information Sciences                              | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file2.pdf) |
 | Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case | Soo Min Shim, Jeong Min Oh, Nam Gyo Kim, and Gyeongbin Ryoo, Ji Soo Kang, Young Eun Kim, Seong Wook Hwang, Hee Sang Lee, Joon Young Kim | KOSIME Summer Academic Conference                                                                         | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file3.pdf) |
+
+
+
 
 Tile        | Authors                | Conference              | Date
 ---------------|------------------------|---------------------|---------------------
