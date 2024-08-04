@@ -109,7 +109,7 @@ Computer Vision | 2023           |
 World News Analysis | 2024           |
 Capstone Design | 2024           |
 Advanced Effective Speech | 2024           |
-Understaning the Metaverse | 2024           |
+Understanding the Metaverse | 2024           |
 British Culture And History | 2024           |
 
 
@@ -134,7 +134,9 @@ Broadcast JournalismC Scholarship     | 2023-08-10           |
 UROP Scholarship | 2023-09-11 |
 Sungshin Scholarship(Academic Excellence)     | 2023-08-22          |
 AI SW school Competition     | 2023-08-23          |
-
+Broadcast JournalismB Scholarship     | 2023-02-29           |
+Broadcast JournalismA Scholarship     | 2023-07-26           |
+Top Academic Achievement Scholarship     | Scheduled for Payment           |
 
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
