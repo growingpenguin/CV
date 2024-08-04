@@ -1,4 +1,4 @@
-# Resume of [Ryu GyeongBin](https://github.com/growingpenguin)
+# Resume of [Ryoo GyeongBin](https://github.com/growingpenguin)
 > This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
