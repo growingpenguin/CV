@@ -43,7 +43,7 @@ Project            | Skills           | Description
 #### [2.2.3. Commercial Projects]
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
-Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program using deep learning](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
+Hyundai Heavy Machinary  |Position-specific sloshing load prediction program using deep learning  | C++, Python             | AWS, Microsoft SQL
 
 ### [2.3. Publications]
 #### [2.3.1. Domestic Conference]
