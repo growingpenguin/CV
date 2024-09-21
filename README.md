@@ -2,7 +2,7 @@
 > This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
-![증명사진](https://github.com/growingpenguin/CV/assets/110277903/64b41565-624d-46fb-8f02-9e1f171a6513) <br/>
+![IDPhoto4)](https://github.com/user-attachments/assets/08c02325-1cb9-4da2-af8f-40526c0a48f7) <br/> <br/>
 Name: GYEONGBIN RYOO <br/>
   - BirthDate: 2002-01-12
   - Email: sweetyleah0@gmail.com
