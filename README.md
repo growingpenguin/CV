@@ -38,11 +38,13 @@ Project            | Skills           | Description
 [NLP Project](https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning.git)   | Python | Sentiment analysis of Korean movie reviews from the Naver Sentiment Movie Corpus (NSMC) using two state-of-the-art language models: meta-llama/Llama-2-7b-chat-hf and KT-AI/midm-bitext-S-7B-inst-v1 <br/>
 [Metaverse Experiment Project](https://github.com/growingpenguin/TurtleVerseSync.git)   | Python | Synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 
-
 #### [2.2.3. Commercial Projects]
-Company        | Project                | Skills              | Special Note
----------------|------------------------|---------------------|---------------------
-Hyundai Heavy Machinary  |Position-specific sloshing load prediction program using deep learning  | C++, Python             | AWS, Microsoft SQL
+Company        | Project                | Skills              | Special Note             | Date
+---------------|------------------------|---------------------|--------------------------|---------------------
+Ministry of Science and ICT  | Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste  | Python             |                          | 2023.03.01~2024.02.29
+Hyundai Heavy Machinary  |Position-specific sloshing load prediction program using deep learning  | C++, Python       | AWS, Microsoft SQL       | 2023.03.01~2023.11.30
+HYUNDAI NGV  |Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model  |                     |                          | 2024.07 ~
+
 
 ### [2.3. Publications]
 #### [2.3.1. Domestic Conference]
