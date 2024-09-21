@@ -49,34 +49,13 @@ Hyundai NGV  |Detailing the connection scenarios between robot-friendly building
 #### [2.3.1. Domestic Conference]
 | Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | Download PDF |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|---------------|
-| 가상 환경 기반 미세 조정 모델의 의미론적 분할 성능 분석 및 고찰 | **Gyeongbin Ryoo**, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | 한국 통신학회                              | June 19 2024 | [Download PDF](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11906510) |
+| 가상 환경 기반 미세 조정 모델의 의미론적 분할 성능 분석 및 고찰 | **Gyeongbin Ryoo**, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | Symposium of the Korean Institute of Communications and Information Sciences(한국 통신학회)                              | June 19 2024 | [Download PDF](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11906510) |
 | Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case | Soo Min Shim, Jeong Min Oh, Nam Gyo Kim, and **Gyeongbin Ryoo**, Ji Soo Kang, Young Eun Kim, Seong Wook Hwang, Hee Sang Lee, Joon Young Kim | KOSIME 기술경영경제학회                                                                       | July 2024 |  [Download PDF](https://github.com/growingpenguin/CV_Korean/blob/main/papers/KOSIME_%EA%B8%B0%EC%88%A0%EA%B2%BD%EC%98%81%EA%B2%BD%EC%A0%9C%ED%95%99%ED%9A%8C-%EC%B4%88%EB%A1%9D%EC%A7%91.pdf)
 #### [2.3.2. International Conference]
 | Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | PDF Link                                                                                   |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
 | A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data           | Ms. Jeong Min Oh, **Ms. Gyeongbin Ryoo**,  Jisoo Park,  Jisoo Baik, Ms. Sangeun Ka and Dr. Joon Young Kim | ICTC 2024 (In Proceedings)                   | October 17 2024 |  |      
 | Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in LNG Carriers           | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, **Gyeongbin Ryoo** | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)                    | June 9 2024 | [Download PDF](https://doi.org/10.1115/OMAE2024-127214) |   
-
-
-
-
-
-
-
-
-
-### [2.3. Publications]
-#### [2.3.1. Domestic Conference]
-| Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | Download PDF |
-|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|---------------|
-| Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | Symposium of the Korean Institute of Communications and Information Sciences                              | June 2024 (In Proceedings) | [Download PDF](papers/하계학술대회_논문.pdf) |
-| Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case | Soo Min Shim, Jeong Min Oh, Nam Gyo Kim, and Gyeongbin Ryoo, Ji Soo Kang, Young Eun Kim, Seong Wook Hwang, Hee Sang Lee, Joon Young Kim | KOSIME Summer Academic Conference                                                                         | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file3.pdf) |
-
-#### [2.3.2. International Conference]
-| Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | PDF Link                                                                                   |
-|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
-| Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in LNG Carriers           | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, Gyeongbin Ryoo | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)                    | June 2024 (In Proceedings) | [Download PDF](https://doi.org/10.1115/OMAE2024-127214) |
-
 
 
 ### [2.4. Documentation]
