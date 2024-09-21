@@ -147,7 +147,7 @@ Sungshin Scholarship(Academic Excellence)     | 2023-08-22          |
 AI SW school Competition     | 2023-08-23          |
 Broadcast JournalismB Scholarship     | 2023-02-29           |
 Broadcast JournalismA Scholarship     | 2023-07-26           |
-Top Academic Achievement Scholarship     | Scheduled for Payment           |
+Top Academic Achievement Scholarship(90% of tuition)     | Scheduled for Payment           |
 
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
