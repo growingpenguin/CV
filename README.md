@@ -18,7 +18,7 @@ Sungshin Women's University, 2021-03 ~
 
 
 
-## [2. Work Experience]
+## [2. Project & Research Experience]
 ### [2.1. Internship]
 Member of the Marine Hydrodynamics AI Research Lab (2023.03 ~2023.12.5) <br/>
 Member of the [Mobility Service Research Lab](https://kim415.github.io/) (2024.12.08 ~ ) <br/>
@@ -29,15 +29,14 @@ Member of the [Mobility Service Research Lab](https://kim415.github.io/) (2024.1
 #### [2.2.2. University Projects]
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
-[AI Service Design Project](https://github.com/growingpenguin/kioring)  | Java             | Boader app
+[AI Service Design Project](https://github.com/growingpenguin/kioring)  | Java             | Image Detection Application
 [CJ DataAnalysis Project](https://github.com/growingpenguin/CJ_DataAnalysisCompetition) | C++ | Marketing Report Based on analyzing CJ sales data
-[DataStructure Project](https://github.com/growingpenguin/DatastructureProject)   | C++ | AVL Tree that classifies trash data
+[DataStructure Project](https://github.com/growingpenguin/DatastructureProject)   | C++ | AVL Tree that classifies trash data 
 [Genetic Algorithm Project using Expression Trees](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Genetic Algorithm using Expression Trees
-[Pure/Hybrid Genetic Algorithm Project](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Basic Genetic Algorithms 
+[Pure/Hybrid Genetic Algorithm Project](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Basic Genetic Algorithms  
 [Mobile Programming Project]()   | Java | App that checks the daily nutrition state of users
-[NLP Project](https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning.git)   | Python | Sentiment analysis of Korean movie reviews from the Naver Sentiment Movie Corpus (NSMC) using two state-of-the-art language models: meta-llama/Llama-2-7b-chat-hf and KT-AI/midm-bitext-S-7B-inst-v1
-[Metaverse Experiment Project](https://github.com/growingpenguin/TurtleVerseSync.git)   | Java | The project explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot
-
+[NLP Project](https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning.git)   | Python | Sentiment analysis of Korean movie reviews from the Naver Sentiment Movie Corpus (NSMC) using two state-of-the-art language models: meta-llama/Llama-2-7b-chat-hf and KT-AI/midm-bitext-S-7B-inst-v1 <br/>
+[Metaverse Experiment Project](https://github.com/growingpenguin/TurtleVerseSync.git)   | Python | Synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 
 
 #### [2.2.3. Commercial Projects]
