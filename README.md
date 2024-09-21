@@ -4,7 +4,7 @@
 ### [1.1. Profile]
 ![IDPhoto4)](https://github.com/user-attachments/assets/08c02325-1cb9-4da2-af8f-40526c0a48f7) <br/> <br/>
 Name: GYEONGBIN RYOO <br/>
-  - BirthDate: 2002-01-12
+  - BirthDate: 2002.01.12
   - Email: sweetyleah0@gmail.com
   - Contact: 010-4372-2022
   - Github: https://github.com/growingpenguin
