@@ -43,7 +43,7 @@ Company        | Project                | Skills              | Special Note    
 ---------------|------------------------|---------------------|--------------------------|---------------------
 Ministry of Science and ICT  | Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste  | Python             |                          | 2023.03.01~2024.02.29
 Hyundai Heavy Machinary  |Position-specific sloshing load prediction program using deep learning  | C++, Python       | AWS, Microsoft SQL       | 2023.03.01~2023.11.30
-HYUNDAI NGV  |Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model  |                     |                          | 2024.07 ~
+Hyundai NGV  |Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model  |                     |                          | 2024.07 ~
 
 
 ### [2.3. Publications]
